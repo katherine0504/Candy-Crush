@@ -1,0 +1,46 @@
+<RCC>
+    <qresource prefix="/pic">
+        <file>PIC/1.png</file>
+        <file>PIC/1c.png</file>
+        <file>PIC/2.png</file>
+        <file>PIC/2c.png</file>
+        <file>PIC/3.png</file>
+        <file>PIC/3c.png</file>
+        <file>PIC/4.png</file>
+        <file>PIC/4c.png</file>
+        <file>PIC/5.bmp</file>
+        <file>PIC/5c.bmp</file>
+        <file>PIC/11.png</file>
+        <file>PIC/11c.png</file>
+        <file>PIC/12.png</file>
+        <file>PIC/12c.png</file>
+        <file>PIC/13.png</file>
+        <file>PIC/13c.png</file>
+        <file>PIC/21.png</file>
+        <file>PIC/21c.png</file>
+        <file>PIC/22.png</file>
+        <file>PIC/22c.png</file>
+        <file>PIC/23.png</file>
+        <file>PIC/23c.png</file>
+        <file>PIC/31.png</file>
+        <file>PIC/31c.png</file>
+        <file>PIC/32.png</file>
+        <file>PIC/32c.png</file>
+        <file>PIC/33.png</file>
+        <file>PIC/33c.png</file>
+        <file>PIC/41.png</file>
+        <file>PIC/41c.png</file>
+        <file>PIC/42.png</file>
+        <file>PIC/42c.png</file>
+        <file>PIC/43.png</file>
+        <file>PIC/43c.png</file>
+        <file>PIC/end.jpg</file>
+        <file>PIC/score.jpg</file>
+        <file>PIC/start.jpg</file>
+        <file>PIC/reset.jpg</file>
+        <file>PIC/steps.jpg</file>
+        <file>PIC/rule.jpg</file>
+        <file>PIC/WIN.png</file>
+        <file>PIC/LOSE.png</file>
+    </qresource>
+</RCC>

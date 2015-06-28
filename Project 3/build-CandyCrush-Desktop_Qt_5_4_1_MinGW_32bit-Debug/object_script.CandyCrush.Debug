@@ -1,0 +1,16 @@
+INPUT(
+./debug\main.o
+./debug\mainwindow.o
+./debug\blank.o
+./debug\clean5.o
+./debug\eliminate.o
+./debug\horizontal.o
+./debug\vertical.o
+./debug\box.o
+./debug\clean4.o
+./debug\clean3v.o
+./debug\clean3h.o
+./debug\qrc_pic.o
+./debug\moc_mainwindow.o
+./debug\moc_blank.o
+);

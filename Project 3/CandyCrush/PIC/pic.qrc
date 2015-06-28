@@ -1,0 +1,39 @@
+<RCC>
+    <qresource prefix="/pic">
+        <file>1.png</file>
+        <file>3.png</file>
+        <file>4.png</file>
+        <file>11.png</file>
+        <file>12.png</file>
+        <file>13.png</file>
+        <file>21.png</file>
+        <file>22.png</file>
+        <file>23.png</file>
+        <file>31.png</file>
+        <file>32.png</file>
+        <file>33.png</file>
+        <file>41.png</file>
+        <file>42.png</file>
+        <file>43.png</file>
+        <file>end.jpg</file>
+        <file>1c.png</file>
+        <file>2.png</file>
+        <file>2c.png</file>
+        <file>3c.png</file>
+        <file>4c.png</file>
+        <file>5.bmp</file>
+        <file>5c.bmp</file>
+        <file>11c.png</file>
+        <file>12c.png</file>
+        <file>13c.png</file>
+        <file>21c.png</file>
+        <file>22c.png</file>
+        <file>23c.png</file>
+        <file>31c.png</file>
+        <file>32c.png</file>
+        <file>33c.png</file>
+        <file>41c.png</file>
+        <file>42c.png</file>
+        <file>43c.png</file>
+    </qresource>
+</RCC>

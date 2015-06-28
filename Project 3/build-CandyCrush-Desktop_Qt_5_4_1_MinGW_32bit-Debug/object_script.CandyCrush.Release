@@ -1,0 +1,16 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\blank.o
+./release\clean5.o
+./release\eliminate.o
+./release\horizontal.o
+./release\vertical.o
+./release\box.o
+./release\clean4.o
+./release\clean3v.o
+./release\clean3h.o
+./release\qrc_pic.o
+./release\moc_mainwindow.o
+./release\moc_blank.o
+);
