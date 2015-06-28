@@ -30,7 +30,7 @@ MainWindow::~MainWindow()
 
 void MainWindow::gameStart()
 {
-  //  ui->WIN->hide();
+    //ui->WIN->hide();
   //  ui->LOSE->hide();
     score=0;
     str= QString::number(score,10);
@@ -140,8 +140,9 @@ bool MainWindow::judge(int row1, int col1, int row2, int col2)
     if (hasEliminated[11]) {score=score+100;str= QString::number(score,10);ui->scoreText->setText(str);}
     if (hasEliminated[12]) {score=score+100;str= QString::number(score,10);ui->scoreText->setText(str);}
 
- //   if (score>4000)
- //               ui->WIN->show();
+ //   score=5000;
+  //  if (score>4000)
+     //           ui->WIN->show();
 
     qDebug()<< "score" << score;
     for (int i=0; i<13; i++)
